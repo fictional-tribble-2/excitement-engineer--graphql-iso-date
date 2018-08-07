@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/graphql-iso-date.svg)](http://badge.fury.io/js/graphql-iso-date)
 [![Build Status](https://travis-ci.org/excitement-engineer/graphql-iso-date.svg?branch=master)](https://travis-ci.org/excitement-engineer/graphql-iso-date)
-[![codecov](https://codecov.io/gh/excitement-engineer/graphql-iso-date/branch/master/graph/badge.svg)](https://codecov.io/gh/excitement-engineer/graphql-iso-date) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/excitement-engineer--graphql-iso-date.svg)](https://www.staging.guardrails.io)
+[![codecov](https://codecov.io/gh/excitement-engineer/graphql-iso-date/branch/master/graph/badge.svg)](https://codecov.io/gh/excitement-engineer/graphql-iso-date) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/excitement-engineer--graphql-iso-date.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/excitement-engineer--graphql-iso-date.svg)](https://www.guardrails.io)
 
 GraphQL ISO Date is a set of [RFC 3339](./rfc3339.txt) compliant date/time scalar types to be used with [graphQL.js](https://github.com/graphql/graphql-js).
 
